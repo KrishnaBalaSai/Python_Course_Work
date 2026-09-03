@@ -1,0 +1,22 @@
+Why do we switch to OOP?
+We switch to Object-Oriented Programming (OOP) 
+when programs become large, complex, and difficult to maintain using procedural programming.
+
+Main reasons:-
+To manage large programs
+Code reusability
+Easy maintenance
+Data security
+Real-world representation
+Easy teamwork
+Flexibility
+Hides unnecessary complexity
+
+1) Depends on users → OOP is used to design programs according to user requirements.
+2) Class → A class is a blueprint which consists of attributes and methods.
+3) 
+
+Methods-class,
+
+# Using object -> ins,cls,sta,clsatt,insatt
+# Using class -> cls,sta,clsatt
